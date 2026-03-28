@@ -1262,7 +1262,7 @@
       "synset_id": "i88851",
       "pos": "n",
       "definition_it": "avventuriero italiano (1725-1798)",
-      "slug": "casanova-2"
+      "slug": "casanova"
     }
   ],
   "Caspio": [
@@ -2371,14 +2371,6 @@
       "slug": "fuhrer"
     }
   ],
-  "G. S. Ohm": [
-    {
-      "synset_id": "i108421",
-      "pos": "n",
-      "definition_it": "fisico tedesco (1787-1854).",
-      "slug": "g-s-ohm"
-    }
-  ],
   "Gabon": [
     {
       "synset_id": "i83719",
@@ -2456,7 +2448,7 @@
       "synset_id": "i108373",
       "pos": "n",
       "definition_it": "fisico e matematico tedesco (1777-1855)",
-      "slug": "gauss-2"
+      "slug": "gauss"
     }
   ],
   "Gea": [
@@ -2529,14 +2521,6 @@
       "slug": "george-boole"
     }
   ],
-  "George Simon Ohm": [
-    {
-      "synset_id": "i108421",
-      "pos": "n",
-      "definition_it": "fisico tedesco (1787-1854).",
-      "slug": "george-simon-ohm"
-    }
-  ],
   "George Washington": [
     {
       "synset_id": "i97352",
@@ -2599,14 +2583,6 @@
       "pos": "n",
       "definition_it": "Stato dell'Africa",
       "slug": "ghana"
-    }
-  ],
-  "Giacomo Casanova": [
-    {
-      "synset_id": "i88851",
-      "pos": "n",
-      "definition_it": "avventuriero italiano (1725-1798)",
-      "slug": "giacomo-casanova"
     }
   ],
   "Giamaica": [
@@ -3273,14 +3249,6 @@
       "slug": "jung-carl-gustav"
     }
   ],
-  "K. F. Gauss": [
-    {
-      "synset_id": "i108373",
-      "pos": "n",
-      "definition_it": "fisico e matematico tedesco (1777-1855)",
-      "slug": "k-f-gauss"
-    }
-  ],
   "Kaiser": [
     {
       "synset_id": "i90833",
@@ -3613,14 +3581,6 @@
       "pos": "n",
       "definition_it": "compositore tedesco ((1770-1827)",
       "slug": "ludwig-van-beethoven"
-    }
-  ],
-  "Luna": [
-    {
-      "synset_id": "i85805",
-      "pos": "n",
-      "definition_it": "il satellite della Terra",
-      "slug": "luna-2"
     }
   ],
   "Lussemburgo": [
@@ -4846,7 +4806,7 @@
       "synset_id": "i108421",
       "pos": "n",
       "definition_it": "fisico tedesco (1787-1854).",
-      "slug": "ohm-2"
+      "slug": "ohm"
     }
   ],
   "Oklahoma": [
@@ -6440,7 +6400,7 @@
       "synset_id": "i67838",
       "pos": "n",
       "definition_it": "oggetto volante non identificato",
-      "slug": "ufo-2"
+      "slug": "ufo"
     }
   ],
   "URSS": [
@@ -6497,14 +6457,6 @@
       "pos": "n",
       "definition_it": "stato dell'Europa centro-orientale, membro dell'Unione europea",
       "slug": "ungheria"
-    }
-  ],
-  "Unidentified Flying Object": [
-    {
-      "synset_id": "i67838",
-      "pos": "n",
-      "definition_it": "oggetto volante non identificato",
-      "slug": "unidentified-flying-object"
     }
   ],
   "Unione Sovietica": [
@@ -6869,14 +6821,6 @@
       "pos": "n",
       "definition_it": "dio greco del cielo, del fulmine, del vento, delle nuvole, del cosmo, della legge e dell'ordine. Re degli Dei dell'Olimpo.",
       "slug": "zeus"
-    }
-  ],
-  "Zodiaco": [
-    {
-      "synset_id": "i82585",
-      "pos": "n",
-      "definition_it": "zona dell'emisfero celeste delimitata da due cerchi paralleli all'eclittica",
-      "slug": "zodiaco-2"
     }
   ],
   "Zola": [
@@ -23323,7 +23267,7 @@
     {
       "synset_id": "i63001",
       "pos": "n",
-      "definition_it": "aura luminosa utilizzata per rappresentare la santità",
+      "definition_it": "simbolo religioso che rappresenta un cerchio di luce",
       "slug": "aureola"
     }
   ],
@@ -37167,14 +37111,6 @@
       "slug": "casamento"
     }
   ],
-  "casanova": [
-    {
-      "synset_id": "i88851",
-      "pos": "n",
-      "definition_it": "avventuriero italiano (1725-1798)",
-      "slug": "casanova"
-    }
-  ],
   "casata": [
     {
       "synset_id": "i79200",
@@ -42495,7 +42431,7 @@
     {
       "synset_id": "i59573",
       "pos": "n",
-      "definition_it": "comando per pilotare aerei",
+      "definition_it": "periferica di input utilizzata per programmi o sistemi elettronici",
       "slug": "cloche"
     },
     {
@@ -47382,12 +47318,6 @@
     }
   ],
   "conquistatore": [
-    {
-      "synset_id": "i88851",
-      "pos": "n",
-      "definition_it": "avventuriero italiano (1725-1798)",
-      "slug": "conquistatore"
-    },
     {
       "synset_id": "i89175",
       "pos": "n",
@@ -57405,14 +57335,6 @@
       "slug": "disco"
     }
   ],
-  "disco volante": [
-    {
-      "synset_id": "i67838",
-      "pos": "n",
-      "definition_it": "oggetto volante non identificato",
-      "slug": "disco-volante"
-    }
-  ],
   "discoide": [
     {
       "synset_id": "i52972",
@@ -59372,12 +59294,6 @@
       "synset_id": "i94170",
       "pos": "n",
       "definition_it": "chi va troppo dietro alle donne.",
-      "slug": "dongiovanni"
-    },
-    {
-      "synset_id": "i88851",
-      "pos": "n",
-      "definition_it": "avventuriero italiano (1725-1798)",
       "slug": "dongiovanni"
     }
   ],
@@ -73409,14 +73325,6 @@
       "slug": "gattuccio"
     }
   ],
-  "gauss": [
-    {
-      "synset_id": "i108373",
-      "pos": "n",
-      "definition_it": "fisico e matematico tedesco (1777-1855)",
-      "slug": "gauss"
-    }
-  ],
   "gaussiano": [
     {
       "synset_id": "i17328",
@@ -76303,22 +76211,6 @@
       "pos": "n",
       "definition_it": "corpo celeste",
       "slug": "globo"
-    }
-  ],
-  "globo terracqueo": [
-    {
-      "synset_id": "i85350",
-      "pos": "n",
-      "definition_it": "terzo pianeta del sistema solare in cui viviamo",
-      "slug": "globo-terracqueo"
-    }
-  ],
-  "globo terrestre": [
-    {
-      "synset_id": "i85350",
-      "pos": "n",
-      "definition_it": "terzo pianeta del sistema solare in cui viviamo",
-      "slug": "globo-terrestre"
     }
   ],
   "globulo rosso": [
@@ -88071,7 +87963,7 @@
     {
       "synset_id": "i59573",
       "pos": "n",
-      "definition_it": "comando per pilotare aerei",
+      "definition_it": "periferica di input utilizzata per programmi o sistemi elettronici",
       "slug": "joystick"
     }
   ],
@@ -100511,12 +100403,6 @@
       "slug": "mondo"
     },
     {
-      "synset_id": "i85350",
-      "pos": "n",
-      "definition_it": "terzo pianeta del sistema solare in cui viviamo",
-      "slug": "mondo"
-    },
-    {
       "synset_id": "i37936",
       "pos": "n",
       "definition_it": "gioco infantile",
@@ -106321,14 +106207,6 @@
       "pos": "n",
       "definition_it": "il giorno presente",
       "slug": "oggidi"
-    }
-  ],
-  "ohm": [
-    {
-      "synset_id": "i108421",
-      "pos": "n",
-      "definition_it": "fisico tedesco (1787-1854).",
-      "slug": "ohm"
     }
   ],
   "ohmmetro": [
@@ -134555,14 +134433,6 @@
       "slug": "rozzamente"
     }
   ],
-  "rubacuori": [
-    {
-      "synset_id": "i88851",
-      "pos": "n",
-      "definition_it": "avventuriero italiano (1725-1798)",
-      "slug": "rubacuori"
-    }
-  ],
   "rubinetto": [
     {
       "synset_id": "i53616",
@@ -140563,14 +140433,6 @@
       "pos": "n",
       "definition_it": "meeting, incontro",
       "slug": "seduta"
-    }
-  ],
-  "seduttore": [
-    {
-      "synset_id": "i88851",
-      "pos": "n",
-      "definition_it": "avventuriero italiano (1725-1798)",
-      "slug": "seduttore"
     }
   ],
   "seduzione": [
@@ -148103,7 +147965,7 @@
     {
       "synset_id": "i65636",
       "pos": "n",
-      "definition_it": "cellula gametica maschile",
+      "definition_it": "cellule riproduttive maschili",
       "slug": "spermatozoo"
     }
   ],
@@ -156031,12 +155893,6 @@
   ],
   "terra": [
     {
-      "synset_id": "i85350",
-      "pos": "n",
-      "definition_it": "terzo pianeta del sistema solare in cui viviamo",
-      "slug": "terra"
-    },
-    {
       "synset_id": "i86280",
       "pos": "n",
       "definition_it": "superficie terrestre",
@@ -157447,14 +157303,6 @@
       "pos": "n",
       "definition_it": "costruzione funebre di particolare valore artistico eretta in onore di personaggi illustri.",
       "slug": "tomba"
-    }
-  ],
-  "tombeur de femmes": [
-    {
-      "synset_id": "i88851",
-      "pos": "n",
-      "definition_it": "avventuriero italiano (1725-1798)",
-      "slug": "tombeur-de-femmes"
     }
   ],
   "tombola": [
@@ -161299,14 +161147,6 @@
       "pos": "n",
       "definition_it": "ufficio, mansione; incarico, mansione",
       "slug": "ufizio"
-    }
-  ],
-  "ufo": [
-    {
-      "synset_id": "i67838",
-      "pos": "n",
-      "definition_it": "oggetto volante non identificato",
-      "slug": "ufo"
     }
   ],
   "uggia": [
